@@ -1,3 +1,5 @@
+Forked and filtered from this [repo](https://github.com/t3n/helm-charts)
+
 # UNMS
 
 This Chart bootstraps a UNMS Deployment on a [Kubernetes](http://kubernetes.io) cluster using the
@@ -5,4 +7,4 @@ This Chart bootstraps a UNMS Deployment on a [Kubernetes](http://kubernetes.io) 
 
 ## Configuration
 
-See [values.yaml](https://github.com/t3n/helm-charts/blob/master/unms/values.yaml) for required values and explanations
+See [values.yaml](https://github.com/fculpo/unms-helm/values.yaml) for required values and explanations
