@@ -7,4 +7,4 @@ This Chart bootstraps a UNMS Deployment on a [Kubernetes](http://kubernetes.io) 
 
 ## Configuration
 
-See [values.yaml](https://github.com/fculpo/unms-helm/values.yaml) for required values and explanations
+See [values.yaml](https://github.com/fculpo/unms-helm/blob/master/values.yaml) for required values and explanations
